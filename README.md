@@ -8,11 +8,11 @@
 
 ## Sujet du Lab
 
-[android_security_lab1.pdf](documents/android_security_lab1.pdf)
+[android_security_lab1.pdf](doc/android_security_lab1.pdf)
 
 ## Rapport
 
-[Android Security Lab 1.pdf](documents/Android%20Security%20Lab%201.pdf)
+[rapport.pdf](doc/rapport.pdf)
 
 ## Code
 
