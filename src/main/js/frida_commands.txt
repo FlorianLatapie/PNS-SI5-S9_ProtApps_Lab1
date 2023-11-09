@@ -1,0 +1,8 @@
+adb shell 
+--> 
+su
+./data/local/tmp/frida-server &
+
+powershell.exe
+--> 
+frida -U -l .\hook_m2.js -f owasp.mstg.uncrackable1
